@@ -1,0 +1,10 @@
+GenelKültür:“Ulvi” sözünün Türkçe kökenli eş anlamlısı:Yüce
+GenelKültür: Deride sinirler boyunca beliren, “Gece yanığı” olarak da bilinen hastalık:Zona
+GenelKültür: Haber toplama, yayma ve üyelerine dağıtma işiyle uğraşan kuruluş:Ajans
+DilBilgisi: Yakınma ve hafifseme yoluyla “Şimdiki devir” anlamında kullanılan sözcük:Zamane
+GenelKültür: Argoda, “Aldatarak parasını çekmek”:Sağmak
+DilBilgisi: “Amacında, yolunda” anlamında bir zarf:Uğrunda
+GenelKültür: Evliya mucizesi:Keramet
+DilBilgisi: Alacakların toplanması:Tahsilat
+DilBilgisi: “Acınmak, yazıklanmak, teessüf etmek” anlamlarındaki söz:Yerinmek
+DilBilgisi: “Bu işle ilgilenmem, buna karışmam” anlamında bir tabir:Nemelazım
